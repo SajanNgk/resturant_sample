@@ -82,7 +82,7 @@ class _SplashScreenState extends State<SplashScreen> {
           TextSpan(
             text: "$s2",
             style: TextStyle(
-              fontFamily: "RocaOne",
+              // fontFamily: "RocaOne",
               fontSize: 40.sp,
               fontWeight: FontWeight.w400,
               color: const Color.fromRGBO(81, 32, 10, 1),
